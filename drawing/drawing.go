@@ -8,15 +8,15 @@ import (
 	"io"
 	"os"
 
-	"github.com/yofu/dxf/block"
-	"github.com/yofu/dxf/class"
-	"github.com/yofu/dxf/color"
-	"github.com/yofu/dxf/entity"
-	"github.com/yofu/dxf/format"
-	"github.com/yofu/dxf/handle"
-	"github.com/yofu/dxf/header"
-	"github.com/yofu/dxf/object"
-	"github.com/yofu/dxf/table"
+	"github.com/Vladicorn/dxf/block"
+	"github.com/Vladicorn/dxf/class"
+	"github.com/Vladicorn/dxf/color"
+	"github.com/Vladicorn/dxf/entity"
+	"github.com/Vladicorn/dxf/format"
+	"github.com/Vladicorn/dxf/handle"
+	"github.com/Vladicorn/dxf/header"
+	"github.com/Vladicorn/dxf/object"
+	"github.com/Vladicorn/dxf/table"
 )
 
 // Drawing contains DXF drawing data.

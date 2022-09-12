@@ -2,7 +2,7 @@
 package table
 
 import (
-	"github.com/yofu/dxf/format"
+	"github.com/Vladicorn/dxf/format"
 )
 
 // Tables represents TABLES section.

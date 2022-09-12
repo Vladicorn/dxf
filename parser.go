@@ -6,13 +6,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yofu/dxf/block"
-	"github.com/yofu/dxf/color"
-	"github.com/yofu/dxf/drawing"
-	"github.com/yofu/dxf/entity"
-	"github.com/yofu/dxf/header"
-	"github.com/yofu/dxf/insunit"
-	"github.com/yofu/dxf/table"
+	"github.com/Vladicorn/dxf/block"
+	"github.com/Vladicorn/dxf/color"
+	"github.com/Vladicorn/dxf/drawing"
+	"github.com/Vladicorn/dxf/entity"
+	"github.com/Vladicorn/dxf/header"
+	"github.com/Vladicorn/dxf/insunit"
+	"github.com/Vladicorn/dxf/table"
 )
 
 // setFloat sets a floating point number to a variable using given function.

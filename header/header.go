@@ -21,7 +21,7 @@ type Header struct {
 // New creates a new Header.
 func New() *Header {
 	h := new(Header)
-	h.Version = "AC1015"
+	h.Version = "AC1024"
 	h.InsBase = make([]float64, 3)
 	h.ExtMin = make([]float64, 3)
 	h.ExtMax = make([]float64, 3)
